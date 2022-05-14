@@ -1,0 +1,61 @@
+@font-face {
+    font-family: pirateFont;
+    src: url(pirateFont.ttf);
+}
+
+.age {
+    font-family: pirateFont;
+    font-size: 3vw;
+}
+
+.rightname, .leftname {
+    font-family: pirateFont;
+    font-size: 4vw;
+    
+}
+
+.myButton {
+    width: 25%;
+    transform: translate(150%, 0%);
+}
+
+.btn-circle.btn-xl {
+    padding: 6px 6px;
+    border-radius: 60px;
+    font-size: 1.2vw;
+    text-align: center;
+}
+
+
+
+
+.leftside, .rightside {
+    font-family: pirateFont;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    font-size: 2vw;
+
+    height:100vh;
+    width: 100%;
+}
+
+
+.leftside {
+    background: url(leftpicture.jpg); 
+    background-color: #cccccc; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.rightside {
+    background-image: url(rightpicture.jpg);
+    background-color: #cccccc; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
