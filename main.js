@@ -61,6 +61,7 @@ io.on("connection", (socket) => {
         let right_person = get_random_person(left_person);
         io.emit("page_opening", {"left": {"name": left_person, "age": data[left_person]["age"]}, 
                                  "right": right_person,
+                                 "cheating_answer": data[right_person]["age"],
                                  "image": {"left": data[left_person]["pic-link"], "right": data[right_person]["pic-link"]}});
     });
 
@@ -69,10 +70,12 @@ io.on("connection", (socket) => {
         let new_person = get_random_person(previous_value.right);
         if (!data[previous_value.right]) {
             io.emit("update_page", {"left": {"name": previous_value.right, "age": "unknown"},
+                                    "cheating_answer": data[new_person]["age"],
                                     "right": new_person});
         } else {
             io.emit("update_page", {"left": {"name": previous_value.right, "age": data[previous_value.right]["age"]},
                                     "right": new_person, 
+                                    "cheating_answer": data[new_person]["age"],
                                     "image": {"left": data[previous_value.right]["pic-link"], "right": data[new_person]["pic-link"]}});
         }
         

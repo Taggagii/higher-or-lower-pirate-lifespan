@@ -61,6 +61,7 @@ var socket = io();
     // update page on startup
     socket.emit("page_opening");
     socket.on("page_opening", (starting_values) => {
+        console.log(`Answer: `, starting_values.cheating_answer)
         $(".leftname").html(starting_values.left.name);
         $(".age").html(starting_values.left.age);
         $(".rightname").html(starting_values.right);
@@ -73,6 +74,7 @@ var socket = io();
     function update_page() {
         socket.emit("update_page", {"right":  $(".rightname").html()});
         socket.on("update_page", (update_values) => {
+            console.log(`Answer: `, update_values.cheating_answer)
             $(".leftname").html(update_values.left.name);
             $(".age").html(update_values.left.age);
             $(".rightname").html(update_values.right);
@@ -118,9 +120,9 @@ var socket = io();
 
     socket.on("choice_response", (value) => {
         
-        console.log(`return value:`);
-        console.log(value)
-        console.log(`You were correct: ${value.correct}, he was ${value.age} years old`);
+        // console.log(`return value:`);
+        // console.log(value)
+        // console.log(`You were correct: ${value.correct}, he was ${value.age} years old`);
         if (value.correct) {
             ++score;
         } else {
