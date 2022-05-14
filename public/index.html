@@ -15,8 +15,8 @@
 
     <div class="row no-gutters">
         <div class="col no-gutters">
-    background-blend-mode: darken;
-            <div class="leftside" style = "background: rgba(0, 0, 0, 0.7) url('https://files.realpython.com/media/Getting-Started-with-Testing-in-Python_Watermarked.9f22be97343d.jpg');">
+            <div class="leftside" style = "background: rgba(0, 0, 0, 0.7) url('https://files.realpython.com/media/Getting-Started-with-Testing-in-Python_Watermarked.9f22be97343d.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; background-blend-mode: darken;
+            ">
                 <p class = "leftname">
                     
                 </p>
@@ -30,7 +30,8 @@
         </div>
 
         <div class="col no-gutters">
-            <div class="rightside" style = "background: rgba(0, 0, 0, 0.5) url('https://southgeorgianbayoht.ca/wp-content/uploads/2022/01/Cell-Phone-OHT-Information-and-Testing-Website-Header.jpeg')">
+            <div class="rightside" style = "background: rgba(0, 0, 0, 0.5) url('https://southgeorgianbayoht.ca/wp-content/uploads/2022/01/Cell-Phone-OHT-Information-and-Testing-Website-Header.jpeg'); background-size: cover; background-position: center; background-repeat: no-repeat; background-blend-mode: darken;
+            ">
                 <p class = "rightname">
                     
                 </p>
@@ -62,6 +63,8 @@ var socket = io();
         $(".leftname").html(starting_values.left.name);
         $(".age").html(starting_values.left.age);
         $(".rightname").html(starting_values.right);
+        update_background(true, starting_values.image.left);
+        update_background(false, starting_values.image.right);
     });
 
     $("#score").html(score);
@@ -72,6 +75,8 @@ var socket = io();
             $(".leftname").html(update_values.left.name);
             $(".age").html(update_values.left.age);
             $(".rightname").html(update_values.right);
+            update_background(true, update_values.image.left);
+            update_background(false, update_values.image.right);
         });
         $("#score").html(score);
     }

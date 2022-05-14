@@ -6,6 +6,7 @@ const { createServer } = require("http");
 const { Server } = require("socket.io");
 const app = express();
 const fs = require("fs");
+const { get } = require("express/lib/response");
 
 app.set("view engine", "ejs");
 
@@ -43,7 +44,7 @@ function get_random_person(given) {
     let value;
     do {
         value = keyArray[Math.floor(Math.random() * keyArray.length)];
-    } while (value == given);
+    } while (value == given || data[value]["pic-link"] == "");
 
     return value;
     
@@ -57,18 +58,22 @@ io.on("connection", (socket) => {
     socket.on("page_opening", () => {
         
         let left_person = get_random_person();
+        let right_person = get_random_person(left_person);
         io.emit("page_opening", {"left": {"name": left_person, "age": data[left_person]["age"]}, 
-                                 "right": get_random_person(left_person)});
+                                 "right": right_person,
+                                 "image": {"left": data[left_person]["pic-link"], "right": data[right_person]["pic-link"]}});
     });
 
     socket.on("update_page", (previous_value) => {
         // error checking
+        let new_person = get_random_person(previous_value.right);
         if (!data[previous_value.right]) {
-            io.emit("page_opening", {"left": {"name": previous_value.right, "age": "unknown"},
-                                 "right": get_random_person(previous_value.right)});
+            io.emit("update_page", {"left": {"name": previous_value.right, "age": "unknown"},
+                                    "right": new_person});
         } else {
-            io.emit("page_opening", {"left": {"name": previous_value.right, "age": data[previous_value.right]["age"]},
-                                 "right": get_random_person(previous_value.right)});
+            io.emit("update_page", {"left": {"name": previous_value.right, "age": data[previous_value.right]["age"]},
+                                    "right": new_person, 
+                                    "image": {"left": data[previous_value.right]["pic-link"], "right": data[new_person]["pic-link"]}});
         }
         
     });
