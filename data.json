@@ -1,666 +1,832 @@
 {
     "Sextus Pompeius": {
         "age": 32,
-        "link": "https://en.wikipedia.org/wiki/Sextus_Pompeius"
+        "wiki-link": "https://en.wikipedia.org/wiki/Sextus_Pompeius",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/S_Pomp%C3%A9e_aureus_Sicile_C_des_M.jpg/240px-S_Pomp%C3%A9e_aureus_Sicile_C_des_M.jpg"
     },
     "James Alday": {
         "age": 60,
-        "link": "https://en.wikipedia.org/wiki/James_Alday"
+        "wiki-link": "https://en.wikipedia.org/wiki/James_Alday",
+        "pic-link": ""
     },
     "Jean Ango": {
         "age": 71,
-        "link": "https://en.wikipedia.org/wiki/Jean_Ango"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jean_Ango",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Eug%C3%A8ne_B%C3%A9net_%28sculpt%29_76200_Dieppe%2C_Jehan_Ango%2C_buste%2C_Mus%C3%A9e_Ch%C3%A2teau_de_Dieppe.jpg/220px-Eug%C3%A8ne_B%C3%A9net_%28sculpt%29_76200_Dieppe%2C_Jehan_Ango%2C_buste%2C_Mus%C3%A9e_Ch%C3%A2teau_de_Dieppe.jpg"
     },
     "Aruj": {
         "age": 44,
-        "link": "https://en.wikipedia.org/wiki/Aruj"
+        "wiki-link": "https://en.wikipedia.org/wiki/Aruj",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Arolsen_Klebeband_01_465_4.jpg/220px-Arolsen_Klebeband_01_465_4.jpg"
     },
     "Baldassare Cossa": {
         "age": 45,
-        "link": "https://en.wikipedia.org/wiki/Antipope_John_XXIII"
+        "wiki-link": "https://en.wikipedia.org/wiki/Antipope_John_XXIII",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johannes_XXIII._Gegenpapst_2.jpg/220px-Johannes_XXIII._Gegenpapst_2.jpg"
     },
     "Magnus Heinason": {
         "age": 44,
-        "link": "https://en.wikipedia.org/wiki/Magnus_Heinason"
+        "wiki-link": "https://en.wikipedia.org/wiki/Magnus_Heinason",
+        "pic-link": ""
     },
     "Turgut Reis": {
         "age": 80,
-        "link": "https://en.wikipedia.org/wiki/Turgut_Reis"
+        "wiki-link": "https://en.wikipedia.org/wiki/Turgut_Reis",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dragut_Monument_Palm_Globe_Istanbul.jpg/200px-Dragut_Monument_Palm_Globe_Istanbul.jpg"
     },
     "Klaus St\u00f6rtebeker": {
         "age": 41,
-        "link": "https://en.wikipedia.org/wiki/Klaus_St%C3%B6rtebeker"
+        "wiki-link": "https://en.wikipedia.org/wiki/Klaus_St%C3%B6rtebeker",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rekonstruierter_Schaedel.jpg/220px-Rekonstruierter_Schaedel.jpg"
     },
     "Hennig Wichmann": {
         "age": 32,
-        "link": "https://en.wikipedia.org/wiki/Hennig_Wichmann"
+        "wiki-link": "https://en.wikipedia.org/wiki/Hennig_Wichmann",
+        "pic-link": ""
     },
     "Magister Wigbold": {
         "age": 37,
-        "link": "https://en.wikipedia.org/wiki/Magister_Wigbold"
+        "wiki-link": "https://en.wikipedia.org/wiki/Magister_Wigbold",
+        "pic-link": ""
     },
     "Uluj Ali": {
         "age": 68,
-        "link": "https://en.wikipedia.org/wiki/Uluj_Ali"
+        "wiki-link": "https://en.wikipedia.org/wiki/Uluj_Ali",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ulu%C3%A7_Al%C3%AC_Pasci%C3%A0%2C_ritratto_tagliato.jpg/220px-Ulu%C3%A7_Al%C3%AC_Pasci%C3%A0%2C_ritratto_tagliato.jpg"
     },
     "Pedro Men\u00e9ndez de Avil\u00e9s": {
         "age": 55,
-        "link": "https://en.wikipedia.org/wiki/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s"
+        "wiki-link": "https://en.wikipedia.org/wiki/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pedro_menendez_de_Aviles.jpg/300px-Pedro_menendez_de_Aviles.jpg"
     },
     "Sir Andrew Barton": {
         "age": 45,
-        "link": "https://en.wikipedia.org/wiki/Andrew_Barton_(privateer)"
+        "wiki-link": "https://en.wikipedia.org/wiki/Andrew_Barton_(privateer)",
+        "pic-link": ""
     },
     "Rock Brasiliano": {
         "age": 41,
-        "link": "https://en.wikipedia.org/wiki/Rock_Brasiliano"
+        "wiki-link": "https://en.wikipedia.org/wiki/Rock_Brasiliano",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Buccaneers_of_America_9.jpg/220px-The_Buccaneers_of_America_9.jpg"
     },
     "Hendrik Brouwer": {
         "age": 62,
-        "link": "https://en.wikipedia.org/wiki/Hendrik_Brouwer"
+        "wiki-link": "https://en.wikipedia.org/wiki/Hendrik_Brouwer",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hendrik_Brouwer.jpg/220px-Hendrik_Brouwer.jpg"
     },
     "John Callis": {
         "age": 29,
-        "link": "https://en.wikipedia.org/wiki/John_Callis_(pirate)"
+        "wiki-link": "https://en.wikipedia.org/wiki/John_Callis_(pirate)",
+        "pic-link": ""
     },
     "Thomas Cavendish": {
         "age": 32,
-        "link": "https://en.wikipedia.org/wiki/Thomas_Cavendish"
+        "wiki-link": "https://en.wikipedia.org/wiki/Thomas_Cavendish",
+        "pic-link": ""
     },
     "Claes Compaan": {
         "age": 73,
-        "link": "https://en.wikipedia.org/wiki/Claes_Compaan"
+        "wiki-link": "https://en.wikipedia.org/wiki/Claes_Compaan",
+        "pic-link": ""
     },
     "Sir Francis Drake": {
         "age": 56,
-        "link": "https://en.wikipedia.org/wiki/Francis_Drake"
+        "wiki-link": "https://en.wikipedia.org/wiki/Francis_Drake",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gheeraerts_Francis_Drake_1591.jpg/220px-Gheeraerts_Francis_Drake_1591.jpg"
     },
     "Peter Easton": {
         "age": 49,
-        "link": "https://en.wikipedia.org/wiki/Peter_Easton"
+        "wiki-link": "https://en.wikipedia.org/wiki/Peter_Easton",
+        "pic-link": ""
     },
     "Sir John Hawkins": {
         "age": 63,
-        "link": "https://en.wikipedia.org/wiki/John_Hawkins_(naval_commander)"
+        "wiki-link": "https://en.wikipedia.org/wiki/John_Hawkins_(naval_commander)",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/John_Hawkins.JPG/220px-John_Hawkins.JPG"
     },
     "Piet Pieterszoon Hein": {
         "age": 52,
-        "link": "https://en.wikipedia.org/wiki/Piet_Pieterszoon_Hein"
+        "wiki-link": "https://en.wikipedia.org/wiki/Piet_Pieterszoon_Hein",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Piet_Hein.jpg/220px-Piet_Hein.jpg"
     },
     "Richard Ingle": {
         "age": 44,
-        "link": "https://en.wikipedia.org/wiki/Richard_Ingle"
+        "wiki-link": "https://en.wikipedia.org/wiki/Richard_Ingle",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Maryland_Dove.jpg/325px-Maryland_Dove.jpg"
     },
     "Pieter Adriaanszoon Ita": {
         "age": 2,
-        "link": "https://en.wikipedia.org/wiki/Pieter_Adriaanszoon_Ita"
+        "wiki-link": "https://en.wikipedia.org/wiki/Pieter_Adriaanszoon_Ita",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Naval_engagement_at_Havana_and_Bah%C3%ADa_de_Matanzas%2C_1628_RCIN_722037.jpg/220px-Naval_engagement_at_Havana_and_Bah%C3%ADa_de_Matanzas%2C_1628_RCIN_722037.jpg"
     },
     "Jan Janszoon": {
         "age": 71,
-        "link": "https://en.wikipedia.org/wiki/Jan_Janszoon"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jan_Janszoon",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mola_Pirata.jpg/220px-Mola_Pirata.jpg"
     },
     "Zheng Jing": {
         "age": 39,
-        "link": "https://en.wikipedia.org/wiki/Zheng_Jing"
+        "wiki-link": "https://en.wikipedia.org/wiki/Zheng_Jing",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%E9%84%AD%E7%B6%93.jpg/220px-%E9%84%AD%E7%B6%93.jpg"
     },
     "Cornelius Jol": {
         "age": 44,
-        "link": "https://en.wikipedia.org/wiki/Cornelius_Jol"
+        "wiki-link": "https://en.wikipedia.org/wiki/Cornelius_Jol",
+        "pic-link": ""
     },
     "Shirahama Kenki": {
         "age": 1,
-        "link": "https://en.wikipedia.org/wiki/Shirahama_Kenki"
+        "wiki-link": "https://en.wikipedia.org/wiki/Shirahama_Kenki",
+        "pic-link": ""
     },
     "Sir James Lancaster": {
         "age": 64,
-        "link": "https://en.wikipedia.org/wiki/James_Lancaster"
+        "wiki-link": "https://en.wikipedia.org/wiki/James_Lancaster",
+        "pic-link": ""
     },
     "Hendrick Jacobszoon Lucifer": {
         "age": 44,
-        "link": "https://en.wikipedia.org/wiki/Hendrick_Jacobszoon_Lucifer"
+        "wiki-link": "https://en.wikipedia.org/wiki/Hendrick_Jacobszoon_Lucifer",
+        "pic-link": ""
     },
     "Sir Henry Mainwaring": {
         "age": 66,
-        "link": "https://en.wikipedia.org/wiki/Henry_Mainwaring"
+        "wiki-link": "https://en.wikipedia.org/wiki/Henry_Mainwaring",
+        "pic-link": ""
     },
     "Olivier van Noort": {
         "age": 69,
-        "link": "https://en.wikipedia.org/wiki/Olivier_van_Noort"
+        "wiki-link": "https://en.wikipedia.org/wiki/Olivier_van_Noort",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Olivier_van_Noort.png/220px-Olivier_van_Noort.png"
     },
     "Roger North": {
         "age": 67,
-        "link": "https://en.wikipedia.org/wiki/Roger_North_(governor)"
+        "wiki-link": "https://en.wikipedia.org/wiki/Roger_North_(governor)",
+        "pic-link": ""
     },
     "Grace O'Malley": {
         "age": 73,
-        "link": "https://en.wikipedia.org/wiki/Grace_O%27Malley"
+        "wiki-link": "https://en.wikipedia.org/wiki/Grace_O%27Malley",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Grainne_Mhaol_Ni_Mhaille_Statue.jpg/220px-Grainne_Mhaol_Ni_Mhaille_Statue.jpg"
     },
     "John Oxenham": {
         "age": 44,
-        "link": "https://en.wikipedia.org/wiki/John_Oxenham"
+        "wiki-link": "https://en.wikipedia.org/wiki/John_Oxenham",
+        "pic-link": ""
     },
     "Sir Walter Raleigh": {
         "age": 64,
-        "link": "https://en.wikipedia.org/wiki/Walter_Raleigh"
+        "wiki-link": "https://en.wikipedia.org/wiki/Walter_Raleigh",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sir_Walter_Ralegh_by_%27H%27_monogrammist.jpg/220px-Sir_Walter_Ralegh_by_%27H%27_monogrammist.jpg"
     },
     "Murat Reis the Elder": {
         "age": 102,
-        "link": "https://en.wikipedia.org/wiki/Murat_Reis_the_Elder"
+        "wiki-link": "https://en.wikipedia.org/wiki/Murat_Reis_the_Elder",
+        "pic-link": ""
     },
     "Jean-Fran\u00e7ois de La Rocque de Roberval": {
         "age": 60,
-        "link": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Roberval"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Roberval",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jean-Fran%C3%A7ois_de_la_Roque_de_Roberval.jpg/220px-Jean-Fran%C3%A7ois_de_la_Roque_de_Roberval.jpg"
     },
     "Isaac Rochussen": {
         "age": 79,
-        "link": "https://en.wikipedia.org/wiki/Isaac_Rochussen"
+        "wiki-link": "https://en.wikipedia.org/wiki/Isaac_Rochussen",
+        "pic-link": "//upload.wikimedia.org/wikipedia/en/thumb/3/37/Isaac_Rochussen.gif/220px-Isaac_Rochussen.gif"
     },
     "William Rous": {
         "age": 9,
-        "link": "https://en.wikipedia.org/wiki/William_Rous"
+        "wiki-link": "https://en.wikipedia.org/wiki/William_Rous",
+        "pic-link": ""
     },
     "Pieter Schouten": {
         "age": 1,
-        "link": "https://en.wikipedia.org/wiki/Pieter_Schouten"
+        "wiki-link": "https://en.wikipedia.org/wiki/Pieter_Schouten",
+        "pic-link": ""
     },
     "Sir George Somers": {
         "age": 46,
-        "link": "https://en.wikipedia.org/wiki/George_Somers"
+        "wiki-link": "https://en.wikipedia.org/wiki/George_Somers",
+        "pic-link": "//upload.wikimedia.org/wikipedia/en/thumb/d/d1/Sir_George_Somers_portrait.jpg/220px-Sir_George_Somers_portrait.jpg"
     },
     "Matsura Takanobu": {
         "age": 70,
-        "link": "https://en.wikipedia.org/wiki/Matsura_Takanobu"
+        "wiki-link": "https://en.wikipedia.org/wiki/Matsura_Takanobu",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Matsura_Takanobu%2816th%29cr.jpg/250px-Matsura_Takanobu%2816th%29cr.jpg"
     },
     "Guillaume Le Testu": {
         "age": 64,
-        "link": "https://en.wikipedia.org/wiki/Guillaume_Le_Testu"
+        "wiki-link": "https://en.wikipedia.org/wiki/Guillaume_Le_Testu",
+        "pic-link": ""
     },
     "Sir Francis Verney": {
         "age": 31,
-        "link": "https://en.wikipedia.org/wiki/Francis_Verney"
+        "wiki-link": "https://en.wikipedia.org/wiki/Francis_Verney",
+        "pic-link": "//upload.wikimedia.org/wikipedia/en/thumb/8/87/Sir_Francis_Verney.jpg/220px-Sir_Francis_Verney.jpg"
     },
     "John Ward": {
         "age": 70,
-        "link": "https://en.wikipedia.org/wiki/John_Ward_(pirate)"
+        "wiki-link": "https://en.wikipedia.org/wiki/John_Ward_(pirate)",
+        "pic-link": ""
     },
     "Jacob Willekens": {
         "age": 62,
-        "link": "https://en.wikipedia.org/wiki/Jacob_Willekens"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jacob_Willekens",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Govert_Flinck_003.jpg/220px-Govert_Flinck_003.jpg"
     },
     "Zheng Zhilong": {
         "age": 58,
-        "link": "https://en.wikipedia.org/wiki/Zheng_Zhilong"
+        "wiki-link": "https://en.wikipedia.org/wiki/Zheng_Zhilong",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/0/01/Koxinga_and_Zheng_Zhilong.jpg"
     },
     "Jean Bart": {
         "age": 51,
-        "link": "https://en.wikipedia.org/wiki/Jean_Bart"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jean_Bart",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jean_Bart_mg_9487.jpg/220px-Jean_Bart_mg_9487.jpg"
     },
     "Lancelot Blackburne": {
         "age": 90,
-        "link": "https://en.wikipedia.org/wiki/Lancelot_Blackburne"
+        "wiki-link": "https://en.wikipedia.org/wiki/Lancelot_Blackburne",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lancelot_Blackburne_%281658%E2%80%931743%29%2C_Archbishop_of_York.jpeg/240px-Lancelot_Blackburne_%281658%E2%80%931743%29%2C_Archbishop_of_York.jpeg"
     },
     "Nicolas Brigaut": {
         "age": 33,
-        "link": "https://en.wikipedia.org/wiki/Nicolas_Brigaut"
+        "wiki-link": "https://en.wikipedia.org/wiki/Nicolas_Brigaut",
+        "pic-link": ""
     },
     "Jean du Casse": {
         "age": 69,
-        "link": "https://en.wikipedia.org/wiki/Jean_du_Casse"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jean_du_Casse",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jean_Baptiste_du_Casse.JPG/220px-Jean_Baptiste_du_Casse.JPG"
     },
     "William Dampier": {
         "age": 64,
-        "link": "https://en.wikipedia.org/wiki/William_Dampier"
+        "wiki-link": "https://en.wikipedia.org/wiki/William_Dampier",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dampier-portrait.jpg/220px-Dampier-portrait.jpg"
     },
     "Alexandre Exquemelin": {
         "age": 62,
-        "link": "https://en.wikipedia.org/wiki/Alexandre_Exquemelin"
+        "wiki-link": "https://en.wikipedia.org/wiki/Alexandre_Exquemelin",
+        "pic-link": ""
     },
     "Laurens de Graaf": {
         "age": 51,
-        "link": "https://en.wikipedia.org/wiki/Laurens_de_Graaf"
+        "wiki-link": "https://en.wikipedia.org/wiki/Laurens_de_Graaf",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Graff_Lorens.jpg/220px-Graff_Lorens.jpg"
     },
     "Michel de Grammont": {
         "age": 41,
-        "link": "https://en.wikipedia.org/wiki/Michel_de_Grammont"
+        "wiki-link": "https://en.wikipedia.org/wiki/Michel_de_Grammont",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Grammon2.gif/220px-Grammon2.gif"
     },
     "Richard Hawkins": {
         "age": 60,
-        "link": "https://en.wikipedia.org/wiki/Richard_Hawkins"
+        "wiki-link": "https://en.wikipedia.org/wiki/Richard_Hawkins",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Richard_Hawkins.jpg/220px-Richard_Hawkins.jpg"
     },
     "Nicholas  van Hoorn": {
         "age": 48,
-        "link": "https://en.wikipedia.org/wiki/Nicholas_van_Hoorn"
+        "wiki-link": "https://en.wikipedia.org/wiki/Nicholas_van_Hoorn",
+        "pic-link": ""
     },
     "Daniel Johnson": {
         "age": 46,
-        "link": "https://en.wikipedia.org/wiki/Daniel_Johnson_(buccaneer)"
+        "wiki-link": "https://en.wikipedia.org/wiki/Daniel_Johnson_(buccaneer)",
+        "pic-link": ""
     },
     "Fran\u00e7ois l'Olonnais": {
         "age": 33,
-        "link": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_l%27Olonnais"
+        "wiki-link": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_l%27Olonnais",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Francoislollonais.JPG/220px-Francoislollonais.JPG"
     },
     "Marquis de Maintenon": {
         "age": 43,
-        "link": "https://en.wikipedia.org/wiki/Charles_Fran%C3%A7ois_d%27Angennes,_Marquis_de_Maintenon"
+        "wiki-link": "https://en.wikipedia.org/wiki/Charles_Fran%C3%A7ois_d%27Angennes,_Marquis_de_Maintenon",
+        "pic-link": ""
     },
     "Montbars the Exterminator": {
         "age": 56,
-        "link": "https://en.wikipedia.org/wiki/Daniel_Montbars"
+        "wiki-link": "https://en.wikipedia.org/wiki/Daniel_Montbars",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Montbars%2C_Fight_with_Spanish_Men-of-War%2C_from_the_Pirates_of_the_Spanish_Main_series_%28N19%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835010.jpg/220px-Montbars%2C_Fight_with_Spanish_Men-of-War%2C_from_the_Pirates_of_the_Spanish_Main_series_%28N19%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835010.jpg"
     },
     "Sir Henry Morgan": {
         "age": 53,
-        "link": "https://en.wikipedia.org/wiki/Henry_Morgan"
+        "wiki-link": "https://en.wikipedia.org/wiki/Henry_Morgan",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Admiral_Sir_Henry_Morgan_%281635%E2%80%931688%29%2C_Lieutenant_Governor_of_Jamaica.jpg/220px-Admiral_Sir_Henry_Morgan_%281635%E2%80%931688%29%2C_Lieutenant_Governor_of_Jamaica.jpg"
     },
     "Sir Christopher Myngs": {
         "age": 41,
-        "link": "https://en.wikipedia.org/wiki/Christopher_Myngs"
+        "wiki-link": "https://en.wikipedia.org/wiki/Christopher_Myngs",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Christopher_Myngs.jpg/220px-Christopher_Myngs.jpg"
     },
     "Pierre Le Picard": {
         "age": 24,
-        "link": "https://en.wikipedia.org/wiki/Pierre_Le_Picard"
+        "wiki-link": "https://en.wikipedia.org/wiki/Pierre_Le_Picard",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pierre_Picard%2C_Proposing_His_Plan%2C_from_the_Pirates_of_the_Spanish_Main_series_%28N19%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835038.jpg/220px-Pierre_Picard%2C_Proposing_His_Plan%2C_from_the_Pirates_of_the_Spanish_Main_series_%28N19%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835038.jpg"
     },
     "Baron Jean de Pointis": {
         "age": 72,
-        "link": "https://en.wikipedia.org/wiki/Jean_de_Pointis"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jean_de_Pointis",
+        "pic-link": ""
     },
     "Lawrence Prince": {
         "age": 13,
-        "link": "https://en.wikipedia.org/wiki/Lawrence_Prince"
+        "wiki-link": "https://en.wikipedia.org/wiki/Lawrence_Prince",
+        "pic-link": ""
     },
     "Stenka Razin": {
         "age": 41,
-        "link": "https://en.wikipedia.org/wiki/Stenka_Razin"
+        "wiki-link": "https://en.wikipedia.org/wiki/Stenka_Razin",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Stiepan_Riazin.jpg/220px-Stiepan_Riazin.jpg"
     },
     "Bartholomew Sharp": {
         "age": 40,
-        "link": "https://en.wikipedia.org/wiki/Bartholomew_Sharp"
+        "wiki-link": "https://en.wikipedia.org/wiki/Bartholomew_Sharp",
+        "pic-link": ""
     },
     "Gustav Skytte": {
         "age": 26,
-        "link": "https://en.wikipedia.org/wiki/Gustav_Skytte"
+        "wiki-link": "https://en.wikipedia.org/wiki/Gustav_Skytte",
+        "pic-link": ""
     },
     "Bernard Claesen Speirdyke": {
         "age": 7,
-        "link": "https://en.wikipedia.org/wiki/Bernard_Claesen_Speirdyke"
+        "wiki-link": "https://en.wikipedia.org/wiki/Bernard_Claesen_Speirdyke",
+        "pic-link": ""
     },
     "Jacques Tavernier\u00a0/ Le Lyonnais": {
         "age": 48,
-        "link": "https://en.wikipedia.org/wiki/Jacques_Tavernier"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jacques_Tavernier",
+        "pic-link": ""
     },
     "Mo\u00efse Vauquelin\u00a0/ Moses Vanclein": {
         "age": 22,
-        "link": "https://en.wikipedia.org/wiki/Mo%C3%AFse_Vauquelin"
+        "wiki-link": "https://en.wikipedia.org/wiki/Mo%C3%AFse_Vauquelin",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Moise_Vauquelin%2C_Vauquelin_Slipping_Away%2C_from_the_Pirates_of_the_Spanish_Main_series_%28N19%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835046.jpg/220px-Moise_Vauquelin%2C_Vauquelin_Slipping_Away%2C_from_the_Pirates_of_the_Spanish_Main_series_%28N19%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835046.jpg"
     },
     "Lionel Wafer": {
         "age": 65,
-        "link": "https://en.wikipedia.org/wiki/Lionel_Wafer"
+        "wiki-link": "https://en.wikipedia.org/wiki/Lionel_Wafer",
+        "pic-link": ""
     },
     "Janke\u00a0/ Yankey Willems": {
         "age": 6,
-        "link": "https://en.wikipedia.org/wiki/Jan_Willems_(Dutch_buccaneer)"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jan_Willems_(Dutch_buccaneer)",
+        "pic-link": ""
     },
     "John Auger": {
         "age": 40,
-        "link": "https://en.wikipedia.org/wiki/John_Auger"
+        "wiki-link": "https://en.wikipedia.org/wiki/John_Auger",
+        "pic-link": ""
     },
     "Samuel Bellamy (Black Sam)": {
         "age": 28,
-        "link": "https://en.wikipedia.org/wiki/Samuel_Bellamy"
+        "wiki-link": "https://en.wikipedia.org/wiki/Samuel_Bellamy",
+        "pic-link": ""
     },
     "Blackbeard (Edward Teach)": {
         "age": 38,
-        "link": "https://en.wikipedia.org/wiki/Blackbeard"
+        "wiki-link": "https://en.wikipedia.org/wiki/Blackbeard",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Edward_Teach_Commonly_Call%27d_Black_Beard_%28bw%29.jpg/220px-Edward_Teach_Commonly_Call%27d_Black_Beard_%28bw%29.jpg"
     },
     "Stede Bonnet": {
         "age": 30,
-        "link": "https://en.wikipedia.org/wiki/Stede_Bonnet"
+        "wiki-link": "https://en.wikipedia.org/wiki/Stede_Bonnet",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bonnet.gif/220px-Bonnet.gif"
     },
     "Anne Bonny": {
         "age": 84,
-        "link": "https://en.wikipedia.org/wiki/Anne_Bonny"
+        "wiki-link": "https://en.wikipedia.org/wiki/Anne_Bonny",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bonney%2C_Anne_%281697-1720%29.jpg/220px-Bonney%2C_Anne_%281697-1720%29.jpg"
     },
     "John Breholt": {
         "age": 1,
-        "link": "https://en.wikipedia.org/wiki/John_Breholt"
+        "wiki-link": "https://en.wikipedia.org/wiki/John_Breholt",
+        "pic-link": ""
     },
     "Josiah (\"Thomas\") Burgess": {
         "age": 30,
-        "link": "https://en.wikipedia.org/wiki/Josiah_Burgess"
+        "wiki-link": "https://en.wikipedia.org/wiki/Josiah_Burgess",
+        "pic-link": ""
     },
     "Samuel Burgess": {
         "age": 66,
-        "link": "https://en.wikipedia.org/wiki/Samuel_Burgess"
+        "wiki-link": "https://en.wikipedia.org/wiki/Samuel_Burgess",
+        "pic-link": ""
     },
     "Alexander Dalzeel": {
         "age": 53,
-        "link": "https://en.wikipedia.org/wiki/Alexander_Dalzeel"
+        "wiki-link": "https://en.wikipedia.org/wiki/Alexander_Dalzeel",
+        "pic-link": ""
     },
     "Howell Davis": {
         "age": 29,
-        "link": "https://en.wikipedia.org/wiki/Howell_Davis"
+        "wiki-link": "https://en.wikipedia.org/wiki/Howell_Davis",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HowellDavies.jpg/220px-HowellDavies.jpg"
     },
     "Mathurin Desmarestz": {
         "age": 47,
-        "link": "https://en.wikipedia.org/wiki/Mathurin_Desmarestz"
+        "wiki-link": "https://en.wikipedia.org/wiki/Mathurin_Desmarestz",
+        "pic-link": ""
     },
     "George Dew": {
         "age": 37,
-        "link": "https://en.wikipedia.org/wiki/George_Dew"
+        "wiki-link": "https://en.wikipedia.org/wiki/George_Dew",
+        "pic-link": ""
     },
     "Edward England": {
         "age": 30,
-        "link": "https://en.wikipedia.org/wiki/Edward_England"
+        "wiki-link": "https://en.wikipedia.org/wiki/Edward_England",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Edward_England%2C_Irish_Pirate.jpg/220px-Edward_England%2C_Irish_Pirate.jpg"
     },
     "Henry Every (Avery)": {
         "age": 40,
-        "link": "https://en.wikipedia.org/wiki/Henry_Every"
+        "wiki-link": "https://en.wikipedia.org/wiki/Henry_Every",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Every%2CHenry.JPG/220px-Every%2CHenry.JPG"
     },
     "Ingela Gathenhielm": {
         "age": 37,
-        "link": "https://en.wikipedia.org/wiki/Ingela_Gathenhielm"
+        "wiki-link": "https://en.wikipedia.org/wiki/Ingela_Gathenhielm",
+        "pic-link": ""
     },
     "Lars Gathenhielm": {
         "age": 29,
-        "link": "https://en.wikipedia.org/wiki/Lars_Gathenhielm"
+        "wiki-link": "https://en.wikipedia.org/wiki/Lars_Gathenhielm",
+        "pic-link": ""
     },
     "Charles Harris": {
         "age": 25,
-        "link": "https://en.wikipedia.org/wiki/Charles_Harris_(pirate)"
+        "wiki-link": "https://en.wikipedia.org/wiki/Charles_Harris_(pirate)",
+        "pic-link": ""
     },
     "Don Miguel Enr\u00edquez (Henr\u00edquez)": {
         "age": 69,
-        "link": "https://en.wikipedia.org/wiki/Don_(honorific)"
+        "wiki-link": "https://en.wikipedia.org/wiki/Don_(honorific)",
+        "pic-link": ""
     },
     "Benjamin Hornigold": {
         "age": 39,
-        "link": "https://en.wikipedia.org/wiki/Benjamin_Hornigold"
+        "wiki-link": "https://en.wikipedia.org/wiki/Benjamin_Hornigold",
+        "pic-link": ""
     },
     "William \"Captain\" Kidd": {
         "age": 56,
-        "link": "https://en.wikipedia.org/wiki/William_Kidd"
+        "wiki-link": "https://en.wikipedia.org/wiki/William_Kidd",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/William_Kidd.jpg/220px-William_Kidd.jpg"
     },
     "Olivier Levasseur (Oliver La Buse)": {
         "age": 42,
-        "link": "https://en.wikipedia.org/wiki/Olivier_Levasseur"
+        "wiki-link": "https://en.wikipedia.org/wiki/Olivier_Levasseur",
+        "pic-link": ""
     },
     "Edward \"Ned\" Low": {
         "age": 34,
-        "link": "https://en.wikipedia.org/wiki/Edward_Low"
+        "wiki-link": "https://en.wikipedia.org/wiki/Edward_Low",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Edwardlowepicture.jpg/220px-Edwardlowepicture.jpg"
     },
     "John Norcross": {
         "age": 70,
-        "link": "https://en.wikipedia.org/wiki/John_Norcross"
+        "wiki-link": "https://en.wikipedia.org/wiki/John_Norcross",
+        "pic-link": ""
     },
     "Amaro Pargo": {
         "age": 17,
-        "link": "https://en.wikipedia.org/wiki/Amaro_Pargo"
+        "wiki-link": "https://en.wikipedia.org/wiki/Amaro_Pargo",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Amaro_Pargo.jpg/220px-Amaro_Pargo.jpg"
     },
     "John Quelch": {
         "age": 38,
-        "link": "https://en.wikipedia.org/wiki/John_Quelch_(pirate)"
+        "wiki-link": "https://en.wikipedia.org/wiki/John_Quelch_(pirate)",
+        "pic-link": "//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/220px-Flag_of_England.svg.png"
     },
     "\"Calico Jack\" John Rackham": {
         "age": 38,
-        "link": "https://en.wikipedia.org/wiki/Calico_Jack"
+        "wiki-link": "https://en.wikipedia.org/wiki/Calico_Jack",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rackham%2C_Jack.jpg/220px-Rackham%2C_Jack.jpg"
     },
     "George Raynor": {
         "age": 78,
-        "link": "https://en.wikipedia.org/wiki/George_Raynor_(pirate)"
+        "wiki-link": "https://en.wikipedia.org/wiki/George_Raynor_(pirate)",
+        "pic-link": ""
     },
     "Mary Read": {
         "age": 31,
-        "link": "https://en.wikipedia.org/wiki/Mary_Read"
+        "wiki-link": "https://en.wikipedia.org/wiki/Mary_Read",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mary_Read_killing_her_antagonist_cph.3a00980.jpg/220px-Mary_Read_killing_her_antagonist_cph.3a00980.jpg"
     },
     "Bartholomew Roberts (Black Bart)": {
         "age": 40,
-        "link": "https://en.wikipedia.org/wiki/Bartholomew_Roberts"
+        "wiki-link": "https://en.wikipedia.org/wiki/Bartholomew_Roberts",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bartholomew_Roberts.jpg/220px-Bartholomew_Roberts.jpg"
     },
     "Philip Roche (pirate)": {
         "age": 30,
-        "link": "https://en.wikipedia.org/wiki/Philip_Roche_(pirate)"
+        "wiki-link": "https://en.wikipedia.org/wiki/Philip_Roche_(pirate)",
+        "pic-link": ""
     },
     "Tempest Rogers": {
         "age": 32,
-        "link": "https://en.wikipedia.org/wiki/Tempest_Rogers"
+        "wiki-link": "https://en.wikipedia.org/wiki/Tempest_Rogers",
+        "pic-link": ""
     },
     "Woodes Rogers": {
         "age": 53,
-        "link": "https://en.wikipedia.org/wiki/Woodes_Rogers"
+        "wiki-link": "https://en.wikipedia.org/wiki/Woodes_Rogers",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rogers%2CWoodes.jpg/220px-Rogers%2CWoodes.jpg"
     },
     "Thomas Sutton": {
         "age": 23,
-        "link": "https://en.wikipedia.org/wiki/Thomas_Sutton_(pirate)"
+        "wiki-link": "https://en.wikipedia.org/wiki/Thomas_Sutton_(pirate)",
+        "pic-link": ""
     },
     "Richard Tookerman": {
         "age": 32,
-        "link": "https://en.wikipedia.org/wiki/Richard_Tookerman"
+        "wiki-link": "https://en.wikipedia.org/wiki/Richard_Tookerman",
+        "pic-link": ""
     },
     "Rais Hamidou": {
         "age": 45,
-        "link": "https://en.wikipedia.org/wiki/Rais_Hamidou"
+        "wiki-link": "https://en.wikipedia.org/wiki/Rais_Hamidou",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rais_hamidou.jpg/220px-Rais_hamidou.jpg"
     },
     "Charles Vane": {
         "age": 41,
-        "link": "https://en.wikipedia.org/wiki/Charles_Vane"
+        "wiki-link": "https://en.wikipedia.org/wiki/Charles_Vane",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Early_18th_century_engraving_of_Charles_Vane.jpg/220px-Early_18th_century_engraving_of_Charles_Vane.jpg"
     },
     "Jos\u00e9 Joaquim Almeida": {
         "age": 55,
-        "link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Joaquim_Almeida"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Joaquim_Almeida",
+        "pic-link": ""
     },
     "Peter Alston": {
         "age": 39,
-        "link": "https://en.wikipedia.org/wiki/Peter_Alston"
+        "wiki-link": "https://en.wikipedia.org/wiki/Peter_Alston",
+        "pic-link": ""
     },
     "Fran\u00e7ois Aregnaudeau": {
         "age": 39,
-        "link": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Aregnaudeau"
+        "wiki-link": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Aregnaudeau",
+        "pic-link": ""
     },
     "Louis-Michel Aury": {
         "age": 33,
-        "link": "https://en.wikipedia.org/wiki/Louis-Michel_Aury"
+        "wiki-link": "https://en.wikipedia.org/wiki/Louis-Michel_Aury",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/5/54/Louis_Michel_Aury.gif"
     },
     "Renato Beluche": {
         "age": 80,
-        "link": "https://en.wikipedia.org/wiki/Renato_Beluche"
+        "wiki-link": "https://en.wikipedia.org/wiki/Renato_Beluche",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/MadamJohnsLegacyLakeward1.jpg/200px-MadamJohnsLegacyLakeward1.jpg"
     },
     "Hippolyte Bouchard": {
         "age": 57,
-        "link": "https://en.wikipedia.org/wiki/Hippolyte_Bouchard"
+        "wiki-link": "https://en.wikipedia.org/wiki/Hippolyte_Bouchard",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hip%C3%B3lito_Bouchard.jpg/220px-Hip%C3%B3lito_Bouchard.jpg"
     },
     "Luis Brion de Trox": {
         "age": 39,
-        "link": "https://en.wikipedia.org/wiki/Luis_Brion"
+        "wiki-link": "https://en.wikipedia.org/wiki/Luis_Brion",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Luis_Bri%C3%B3n_2012_000.jpg/220px-Luis_Bri%C3%B3n_2012_000.jpg"
     },
     "Eric Cobham and Maria Lindsey": {
         "age": 60,
-        "link": "https://en.wikipedia.org/wiki/Eric_Cobham_and_Maria_Lindsey"
+        "wiki-link": "https://en.wikipedia.org/wiki/Eric_Cobham_and_Maria_Lindsey",
+        "pic-link": ""
     },
     "James Copeland": {
         "age": 34,
-        "link": "https://en.wikipedia.org/wiki/James_Copeland_(outlaw)"
+        "wiki-link": "https://en.wikipedia.org/wiki/James_Copeland_(outlaw)",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/James_Copeland_hanging.jpg/250px-James_Copeland_hanging.jpg"
     },
     "Jacob Pettersson Degenaar": {
         "age": 74,
-        "link": "https://en.wikipedia.org/wiki/Jacob_Pettersson_Degenaar"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jacob_Pettersson_Degenaar",
+        "pic-link": ""
     },
     "James Ford": {
         "age": 63,
-        "link": "https://en.wikipedia.org/wiki/James_Ford_(pirate)"
+        "wiki-link": "https://en.wikipedia.org/wiki/James_Ford_(pirate)",
+        "pic-link": "//upload.wikimedia.org/wikipedia/en/6/6c/James_Ford_Spawn_Of_Evil_Inside_Book_Cover_Illustrations.png"
     },
     "Jos\u00e9 Gaspar (Gasparilla)": {
         "age": 65,
-        "link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gaspar"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gaspar",
+        "pic-link": ""
     },
     "Leoncio Prado Guti\u00e9rrez": {
         "age": 30,
-        "link": "https://en.wikipedia.org/wiki/Leoncio_Prado_Guti%C3%A9rrez"
+        "wiki-link": "https://en.wikipedia.org/wiki/Leoncio_Prado_Guti%C3%A9rrez",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Leoncio_Prado.jpg/220px-Leoncio_Prado.jpg"
     },
     "Pugsy Hurley ": {
         "age": 40,
-        "link": "https://en.wikipedia.org/wiki/Pugsy_Hurley"
+        "wiki-link": "https://en.wikipedia.org/wiki/Pugsy_Hurley",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/2/29/Pugsey_Hurley_in_Professional_Criminals_of_America.png"
     },
     "Rahmah ibn Jabir al-Jalahimah": {
         "age": 66,
-        "link": "https://en.wikipedia.org/wiki/Rahmah_ibn_Jabir_al-Jalahimah"
+        "wiki-link": "https://en.wikipedia.org/wiki/Rahmah_ibn_Jabir_al-Jalahimah",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RahmahIbnJabir.jpg/140px-RahmahIbnJabir.jpg"
     },
     "Bill Johnston": {
         "age": 88,
-        "link": "https://en.wikipedia.org/wiki/Bill_Johnston_(pirate)"
+        "wiki-link": "https://en.wikipedia.org/wiki/Bill_Johnston_(pirate)",
+        "pic-link": ""
     },
     "Edward Jordan": {
         "age": 38,
-        "link": "https://en.wikipedia.org/wiki/Edward_Jordan_(pirate)"
+        "wiki-link": "https://en.wikipedia.org/wiki/Edward_Jordan_(pirate)",
+        "pic-link": ""
     },
     "J\u00f8rgen J\u00f8rgensen": {
         "age": 61,
-        "link": "https://en.wikipedia.org/wiki/J%C3%B8rgen_J%C3%B8rgensen"
+        "wiki-link": "https://en.wikipedia.org/wiki/J%C3%B8rgen_J%C3%B8rgensen",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/J%C3%B8rgen_J%C3%B8rgensen_%28Eckersberg%29.jpg/220px-J%C3%B8rgen_J%C3%B8rgensen_%28Eckersberg%29.jpg"
     },
     "Jean Lafitte": {
         "age": 50,
-        "link": "https://en.wikipedia.org/wiki/Jean_Lafitte"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jean_Lafitte",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Anonymous_portrait_of_Jean_Lafitte%2C_early_19th_century%2C_Rosenberg_Library%2C_Galveston%2C_Texas.JPG/220px-Anonymous_portrait_of_Jean_Lafitte%2C_early_19th_century%2C_Rosenberg_Library%2C_Galveston%2C_Texas.JPG"
     },
     "Pierre Lafitte": {
         "age": 51,
-        "link": "https://en.wikipedia.org/wiki/Pierre_Lafitte"
+        "wiki-link": "https://en.wikipedia.org/wiki/Pierre_Lafitte",
+        "pic-link": ""
     },
     "Narciso Lopez": {
         "age": 54,
-        "link": "https://en.wikipedia.org/wiki/Narciso_Lopez"
+        "wiki-link": "https://en.wikipedia.org/wiki/Narciso_Lopez",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/7/7b/Narciso_Lopez.png"
     },
     "Sam Hall Lord": {
         "age": 66,
-        "link": "https://en.wikipedia.org/wiki/Sam_Hall_Lord"
+        "wiki-link": "https://en.wikipedia.org/wiki/Sam_Hall_Lord",
+        "pic-link": ""
     },
     "Kazimierz Lux": {
         "age": 66,
-        "link": "https://en.wikipedia.org/wiki/Kazimierz_Lux"
+        "wiki-link": "https://en.wikipedia.org/wiki/Kazimierz_Lux",
+        "pic-link": ""
     },
     "Gregor MacGregor": {
         "age": 59,
-        "link": "https://en.wikipedia.org/wiki/Gregor_MacGregor"
+        "wiki-link": "https://en.wikipedia.org/wiki/Gregor_MacGregor",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/General_Gregor_MacGregor_retouched.jpg/250px-General_Gregor_MacGregor_retouched.jpg"
     },
     "Francisco de Miranda": {
         "age": 66,
-        "link": "https://en.wikipedia.org/wiki/Francisco_de_Miranda"
+        "wiki-link": "https://en.wikipedia.org/wiki/Francisco_de_Miranda",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Francisco_de_Miranda_by_Tovar_y_Tovar.jpg/220px-Francisco_de_Miranda_by_Tovar_y_Tovar.jpg"
     },
     "Samuel Mason": {
         "age": 64,
-        "link": "https://en.wikipedia.org/wiki/Samuel_Mason"
+        "wiki-link": "https://en.wikipedia.org/wiki/Samuel_Mason",
+        "pic-link": "//upload.wikimedia.org/wikipedia/en/5/5d/Samuel_Mason_Spawn_Of_Evil_Inside_Book_Cover_Illustrations.png"
     },
     "John A. Murrell": {
         "age": 38,
-        "link": "https://en.wikipedia.org/wiki/John_Murrell_(bandit)"
+        "wiki-link": "https://en.wikipedia.org/wiki/John_Murrell_(bandit)",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/8/81/John-A.-Murrell-Portrait.jpg"
     },
     "Robert Surcouf": {
         "age": 44,
-        "link": "https://en.wikipedia.org/wiki/Robert_Surcouf"
+        "wiki-link": "https://en.wikipedia.org/wiki/Robert_Surcouf",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/RTEmagicC_robert-surcouf_01.jpg/220px-RTEmagicC_robert-surcouf_01.jpg"
     },
     "Rachel Wall": {
         "age": 29,
-        "link": "https://en.wikipedia.org/wiki/Rachel_Wall"
+        "wiki-link": "https://en.wikipedia.org/wiki/Rachel_Wall",
+        "pic-link": ""
     },
     "William Walker": {
         "age": 36,
-        "link": "https://en.wikipedia.org/wiki/William_Walker_(filibuster)"
+        "wiki-link": "https://en.wikipedia.org/wiki/William_Walker_(filibuster)",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WilliamWalker.jpg/220px-WilliamWalker.jpg"
     },
     "Dominique You": {
         "age": 55,
-        "link": "https://en.wikipedia.org/wiki/Dominique_You"
+        "wiki-link": "https://en.wikipedia.org/wiki/Dominique_You",
+        "pic-link": ""
     },
     "Roberto Cofres\u00ed": {
         "age": 34,
-        "link": "https://en.wikipedia.org/wiki/Roberto_Cofres%C3%AD"
+        "wiki-link": "https://en.wikipedia.org/wiki/Roberto_Cofres%C3%AD",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Statue_of_the_pirate_captain_Roberto_Cofres%C3%AD.jpg/220px-Statue_of_the_pirate_captain_Roberto_Cofres%C3%AD.jpg"
     },
     "Charles Gibbs": {
         "age": 33,
-        "link": "https://en.wikipedia.org/wiki/Charles_Gibbs"
+        "wiki-link": "https://en.wikipedia.org/wiki/Charles_Gibbs",
+        "pic-link": ""
     },
     "\"Don\" Pedro Gilbert": {
         "age": 34,
-        "link": "https://en.wikipedia.org/wiki/Pedro_Gilbert"
+        "wiki-link": "https://en.wikipedia.org/wiki/Pedro_Gilbert",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/5/58/DonPedro_Gilbert.png"
     },
     "Benito de Soto": {
         "age": 25,
-        "link": "https://en.wikipedia.org/wiki/Benito_de_Soto"
+        "wiki-link": "https://en.wikipedia.org/wiki/Benito_de_Soto",
+        "pic-link": ""
     },
     "Jacque Alexander Tardy": {
         "age": 60,
-        "link": "https://en.wikipedia.org/wiki/Jacque_Alexander_Tardy"
+        "wiki-link": "https://en.wikipedia.org/wiki/Jacque_Alexander_Tardy",
+        "pic-link": "//upload.wikimedia.org/wikipedia/en/thumb/0/0e/Sketch_of_Jacque_Alexander_Tardy%27s_skull_front_view.jpeg/220px-Sketch_of_Jacque_Alexander_Tardy%27s_skull_front_view.jpeg"
     },
     "Limahong": {
         "age": 76,
-        "link": "https://en.wikipedia.org/wiki/Limahong"
+        "wiki-link": "https://en.wikipedia.org/wiki/Limahong",
+        "pic-link": ""
     },
     "Eli Boggs": {
         "age": 47,
-        "link": "https://en.wikipedia.org/wiki/Eli_Boggs"
+        "wiki-link": "https://en.wikipedia.org/wiki/Eli_Boggs",
+        "pic-link": ""
     },
     "Nathaniel Gordon": {
         "age": 36,
-        "link": "https://en.wikipedia.org/wiki/Nathaniel_Gordon"
+        "wiki-link": "https://en.wikipedia.org/wiki/Nathaniel_Gordon",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Execution_of_Gordon_the_slave-trader%2C_New_York%2C_February_21%2C_1862_LCCN2011647819.jpg/220px-Execution_of_Gordon_the_slave-trader%2C_New_York%2C_February_21%2C_1862_LCCN2011647819.jpg"
     },
     "Bully Hayes": {
         "age": 48,
-        "link": "https://en.wikipedia.org/wiki/Bully_Hayes"
+        "wiki-link": "https://en.wikipedia.org/wiki/Bully_Hayes",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Only_known_photograph_of_William_Henry_Bully_Hayes.jpg/220px-Only_known_photograph_of_William_Henry_Bully_Hayes.jpg"
     },
     "Albert W. Hicks": {
         "age": 40,
-        "link": "https://en.wikipedia.org/wiki/Albert_W._Hicks"
+        "wiki-link": "https://en.wikipedia.org/wiki/Albert_W._Hicks",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Alfred_Hicks_%28cropped%29.jpg/220px-Alfred_Hicks_%28cropped%29.jpg"
     },
     "James \"Shanghai\" Kelly": {
         "age": 62,
-        "link": "https://en.wikipedia.org/wiki/James_Kelly_(crimper)"
+        "wiki-link": "https://en.wikipedia.org/wiki/James_Kelly_(crimper)",
+        "pic-link": ""
     },
     "Pedro \u00d1ancupel": {
         "age": 51,
-        "link": "https://en.wikipedia.org/wiki/Pedro_%C3%91ancupel"
+        "wiki-link": "https://en.wikipedia.org/wiki/Pedro_%C3%91ancupel",
+        "pic-link": ""
     },
     "Ben Pease": {
         "age": 33,
-        "link": "https://en.wikipedia.org/wiki/Ben_Pease"
+        "wiki-link": "https://en.wikipedia.org/wiki/Ben_Pease",
+        "pic-link": ""
     },
     "Rom\u00e1n Delgado Chalbaud": {
         "age": 47,
-        "link": "https://en.wikipedia.org/wiki/Rom%C3%A1n_Delgado_Chalbaud"
+        "wiki-link": "https://en.wikipedia.org/wiki/Rom%C3%A1n_Delgado_Chalbaud",
+        "pic-link": ""
     },
     "Rafael de Nogales M\u00e9ndez": {
         "age": 57,
-        "link": "https://en.wikipedia.org/wiki/Rafael_de_Nogales_M%C3%A9ndez"
+        "wiki-link": "https://en.wikipedia.org/wiki/Rafael_de_Nogales_M%C3%A9ndez",
+        "pic-link": ""
     },
     "Paul del Rio": {
         "age": 72,
-        "link": "https://en.wikipedia.org/wiki/Paul_del_Rio"
+        "wiki-link": "https://en.wikipedia.org/wiki/Paul_del_Rio",
+        "pic-link": ""
     },
     "Henrique Galv\u00e3o": {
         "age": 75,
-        "link": "https://en.wikipedia.org/wiki/Henrique_Galv%C3%A3o"
+        "wiki-link": "https://en.wikipedia.org/wiki/Henrique_Galv%C3%A3o",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Henrique_Galv%C3%A3o_1934.jpg/220px-Henrique_Galv%C3%A3o_1934.jpg"
     },
     "Felix von Luckner": {
         "age": 85,
-        "link": "https://en.wikipedia.org/wiki/Felix_von_Luckner"
+        "wiki-link": "https://en.wikipedia.org/wiki/Felix_von_Luckner",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/0/09/Luckner.png"
     },
     "Manuel Antonio Matos": {
         "age": 82,
-        "link": "https://es.wikipedia.org/wiki/Manual_Antonio_Matos"
+        "wiki-link": "https://es.wikipedia.org/wiki/Manual_Antonio_Matos",
+        "pic-link": ""
     },
     "Gustavo Machado Morales": {
         "age": 89,
-        "link": "https://en.wikipedia.org/wiki/Gustavo_Machado_Morales"
+        "wiki-link": "https://en.wikipedia.org/wiki/Gustavo_Machado_Morales",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Young_Gustavo_Machado.jpg/220px-Young_Gustavo_Machado.jpg"
     },
     "Peter de Neumann": {
         "age": 55,
-        "link": "https://en.wikipedia.org/wiki/Peter_de_Neumann"
+        "wiki-link": "https://en.wikipedia.org/wiki/Peter_de_Neumann",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PeterdeNeumann-Vigilant.jpg/270px-PeterdeNeumann-Vigilant.jpg"
     },
     "\"Roaring\" Dan Seavey": {
         "age": 84,
-        "link": "https://en.wikipedia.org/wiki/Dan_Seavey"
+        "wiki-link": "https://en.wikipedia.org/wiki/Dan_Seavey",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dan_Seavey_around_1920.jpg/220px-Dan_Seavey_around_1920.jpg"
     },
     "Boysie Singh": {
         "age": 49,
-        "link": "https://en.wikipedia.org/wiki/Piracy_in_the_Caribbean#Boysie_Singh\u2014a_20th_century_pirate"
+        "wiki-link": "https://en.wikipedia.org/wiki/Piracy_in_the_Caribbean#Boysie_Singh\u2014a_20th_century_pirate",
+        "pic-link": ""
     },
     "Rafael Sim\u00f3n Urbina": {
         "age": 55,
-        "link": "https://en.wikipedia.org/wiki/Rafael_Sim%C3%B3n_Urbina"
+        "wiki-link": "https://en.wikipedia.org/wiki/Rafael_Sim%C3%B3n_Urbina",
+        "pic-link": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Rafael_Simon_Urbina_2.jpg/220px-Rafael_Simon_Urbina_2.jpg"
     }
 }
