@@ -89,6 +89,10 @@ app.get("/", (req, res) => {``
     res.sendFile(path.join(__dirname, "/index.html"));
 });
 
+app.get("/lost/:score", (req, res) => {
+    res.sendFile(path.join(__dirname, "/lost.html"));
+})
+
 
 
 // this starts hosting the webpage on the given port

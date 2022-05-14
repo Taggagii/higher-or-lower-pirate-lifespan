@@ -11,9 +11,10 @@
     
 </head>
 <body>
-    <p id = "score"></p>
-
+    
+    <p style = "position: fixed; color: white; font-size: 4vh; z-index: 1; margin-top: 94vh; margin-left: 91vw" id = "score">Score: 0</p>
     <div class="row no-gutters">
+        
         <div class="col no-gutters">
             <div class="leftside" style = "background: rgba(0, 0, 0, 0.7) url('https://files.realpython.com/media/Getting-Started-with-Testing-in-Python_Watermarked.9f22be97343d.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; background-blend-mode: darken;
             ">
@@ -67,7 +68,7 @@ var socket = io();
         update_background(false, starting_values.image.right);
     });
 
-    $("#score").html(score);
+    $("#score").html("Score: " + score);
 
     function update_page() {
         socket.emit("update_page", {"right":  $(".rightname").html()});
@@ -78,7 +79,7 @@ var socket = io();
             update_background(true, update_values.image.left);
             update_background(false, update_values.image.right);
         });
-        $("#score").html(score);
+        $("#score").html("Score: " + score);
     }
 
 
@@ -124,6 +125,7 @@ var socket = io();
             ++score;
         } else {
             score = 0;
+            location.href = "/lost/" + score
         }
         update_page();
         clicked = false;
