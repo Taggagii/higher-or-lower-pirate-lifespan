@@ -21,8 +21,16 @@ const io = new Server(httpServer, {});
 var data = JSON.parse(fs.readFileSync("data.json"));
 
 function check_correctness(choice) {
+    // error handling
+    if (!data[choice.left] && data[choice.right]) {
+        return {"correct": true, "age": data[choice.right].age};
+    } else if (!data[choice.right]) {
+        return {"correct": true, "age": "unknown"};
+    }
+
     let age_two = data[choice.right].age;
     let age_one = data[choice.left].age;
+
     if (choice.more) {
         return {"correct": age_two > age_one, "age": age_two};
     } else {
@@ -35,7 +43,6 @@ function get_random_person(given) {
     let value;
     do {
         value = keyArray[Math.floor(Math.random() * keyArray.length)];
-        console.log(value, given);
     } while (value == given);
 
     return value;
@@ -44,9 +51,6 @@ function get_random_person(given) {
 
 io.on("connection", (socket) => {
     socket.on("choice_question", (choice) => {
-        console.log(`client made choice :`);
-        console.log(choice);
-
         io.emit("choice_response", check_correctness(choice));
     });
 
@@ -58,8 +62,15 @@ io.on("connection", (socket) => {
     });
 
     socket.on("update_page", (previous_value) => {
-        io.emit("page_opening", {"left": {"name": previous_value.right, "age": data[previous_value.right]["age"]},
+        // error checking
+        if (!data[previous_value.right]) {
+            io.emit("page_opening", {"left": {"name": previous_value.right, "age": "unknown"},
                                  "right": get_random_person(previous_value.right)});
+        } else {
+            io.emit("page_opening", {"left": {"name": previous_value.right, "age": data[previous_value.right]["age"]},
+                                 "right": get_random_person(previous_value.right)});
+        }
+        
     });
 });
 
@@ -69,7 +80,7 @@ io.on("connection", (socket) => {
 
 
 // this creates an endpoint on the website for "/" 
-app.get("/", (req, res) => {
+app.get("/", (req, res) => {``
     res.sendFile(path.join(__dirname, "/index.html"));
 });
 

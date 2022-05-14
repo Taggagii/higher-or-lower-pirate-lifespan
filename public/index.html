@@ -16,11 +16,11 @@
         <div class="col no-gutters">
             <div class="leftside">
                 <p class = "leftname">
-                    Left Name
+                    
                 </p>
                 lived for 
                 <p class = "age">
-                        50
+                        
                 </p>
                 years
 
@@ -30,7 +30,7 @@
         <div class="col no-gutters">
             <div class="rightside">
                 <p class = "rightname">
-                    Right Name
+                    
                 </p>
                 lived for 
                     <input style = "margin-bottom: 0.10vh" type = "button" id = "more" value = "more" class="myButton btn btn-outline-light btn-circle btn-xl"> 
@@ -53,30 +53,25 @@
 var socket = io();
 
     let score = 0;
-
-    console.log("page opening, pulling update");
     
+    // update page on startup
     socket.emit("page_opening");
     socket.on("page_opening", (starting_values) => {
-        console.log(starting_values);
         $(".leftname").html(starting_values.left.name);
         $(".age").html(starting_values.left.age);
         $(".rightname").html(starting_values.right);
     });
 
     $("#score").html(score);
-    console.log("page setup complete")
 
     function update_page() {
-        console.log("updateing page")
         socket.emit("update_page", {"right":  $(".rightname").html()});
         socket.on("update_page", (update_values) => {
-            console.log(starting_values);
             $(".leftname").html(update_values.left.name);
             $(".age").html(update_values.left.age);
             $(".rightname").html(update_values.right);
-            $(".score").html(score);
         });
+        $("#score").html(score);
     }
 
 
@@ -110,6 +105,8 @@ var socket = io();
         console.log(`You were correct: ${value.correct}, he was ${value.age} years old`);
         if (value.correct) {
             ++score;
+        } else {
+            score = 0;
         }
         update_page();
         clicked = false;
