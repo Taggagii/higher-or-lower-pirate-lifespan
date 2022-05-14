@@ -40,22 +40,11 @@
 
     height:100vh;
     width: 100%;
-}
-
-
-.leftside {
-    background: url(leftpicture.jpg); 
-    background-color: #cccccc; 
+    
+    background-color: black; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-   
-}
+    background-blend-mode: darken;
 
-.rightside {
-    background-image: url(rightpicture.jpg);
-    background-color: #cccccc; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
